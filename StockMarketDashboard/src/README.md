@@ -42,10 +42,4 @@ This project demonstrates:
 - **Web Framework:** [Dash](https://dash.plotly.com/)
 - **API:** [Twelve Data API](https://twelvedata.com/)
 
-## Installation
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/YourUsername/Real-Time-Stock-Market-Dashboard.git
-   cd Real-Time-Stock-Market-Dashboard
