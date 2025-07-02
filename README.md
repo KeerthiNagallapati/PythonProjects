@@ -6,8 +6,7 @@ This repository showcases my Python-based projects. Each folder contains a self-
 
 - [🐦 E-Bird Dashboard](./E-BirdDashboard)  
   Visualizes bird observation data from the eBird API using Dash, Plotly, and Pandas.
-
-  - [📈 Stock Market Dashboard](./StockMarketDashboard)  
+- [📈 Stock Market Dashboard](./StockMarketDashboard)  
   Real-time dashboard visualizing stock prices and forecasting using Dash, Plotly, and the Twelve Data API.
 
 
