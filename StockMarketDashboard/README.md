@@ -1,4 +1,10 @@
 # Real-Time Stock Market Dashboard
+<img width="1871" height="870" alt="image" src="https://github.com/user-attachments/assets/af4187ff-eb69-4fb9-a596-fa250496705d" />
+<img width="1863" height="766" alt="image" src="https://github.com/user-attachments/assets/ff2d1ec0-5015-4009-b9f6-6aae15176acf" />
+<img width="1862" height="946" alt="image" src="https://github.com/user-attachments/assets/a12b497e-571d-427e-a955-2c006e52bc6d" />
+
+
+
 
 ## Overview
 
