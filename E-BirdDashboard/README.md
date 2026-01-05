@@ -20,6 +20,13 @@ While platforms like [eBird](https://ebird.org/home) provide rich bird sighting 
 - Build a practical use case using **Dash, Plotly, and the eBird API**.
 
 ---
+## Screenshots of Dashboard
+<img width="1860" height="1021" alt="image" src="https://github.com/user-attachments/assets/dce82cb3-3240-4e6a-98f6-c8ded7880d72" />
+<img width="1863" height="1016" alt="image" src="https://github.com/user-attachments/assets/5a759a96-b90b-4b91-b4f0-3e3fa9148399" />
+<img width="1860" height="1011" alt="image" src="https://github.com/user-attachments/assets/3f5e7b3e-b0f5-43f8-bafb-2f36168b96e1" />
+<img width="1857" height="1017" alt="image" src="https://github.com/user-attachments/assets/6c838ba5-add6-47e2-aa54-32a6f3ab7990" />
+
+
 
 ## 🛠 Tech Stack
 
